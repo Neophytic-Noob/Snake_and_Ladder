@@ -6,6 +6,7 @@
 #include <random>
 using namespace std;
 
+//Makes a dice for game
 int dice()
 {
     random_device rd;
